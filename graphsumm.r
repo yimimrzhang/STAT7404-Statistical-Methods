@@ -13,7 +13,7 @@ barplot(perc,xlab="Year in School",ylab="Percent",names.arg=prod.lab)
 
 # Histogram of Weight Guesses 
 # ===========================
-guess <- read.csv("Data/guess.csv",header=T)
+guess <- read.csv("Data/guess.txt",header=T)
 wgtall <- guess$Weight
 hbrk1 <- seq(139,204,5)
 hist(wgtall,breaks=hbrk1,xlab="Weight (lbs)",ylab="Frequency",
