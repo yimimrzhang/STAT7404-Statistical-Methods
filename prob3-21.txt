@@ -1,0 +1,22 @@
+ratio,feeder
+76.50,Terrestrial
+ 6.03,Terrestrial
+ 3.51,Terrestrial
+ 9.96,Terrestrial
+ 4.24,Terrestrial
+ 7.74,Terrestrial
+ 9.54,Terrestrial
+41.70,Terrestrial
+ 1.84,Terrestrial
+ 2.50,Terrestrial
+ 1.54,Terrestrial
+ 0.27,Aquatic
+ 0.61,Aquatic
+ 0.54,Aquatic
+ 0.14,Aquatic
+ 0.63,Aquatic
+ 0.23,Aquatic
+ 0.56,Aquatic
+ 0.48,Aquatic
+ 0.16,Aquatic
+ 0.18,Aquatic
